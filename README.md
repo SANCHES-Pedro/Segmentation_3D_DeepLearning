@@ -14,7 +14,7 @@ Deep learning has been shown to produce state of the art results in many tasks i
   <img src="https://drive.google.com/file/d/1dWlJDlavq7Syb8LowOttDJjXk_7epCfg" width="700px" />
 </div>
 <div align="center">
-  <img src="https://drive.google.com/file/d/12SLD-5mLe6WMneMSGvY2um0o6nwC0TFL" width="700px" />
+  <img src="https://drive.google.com/drive/folders/1cRsSurKQJlfFyUbKlDzuiKI5ATOJ6Bix" width="700px" />
 </div>
 
 
