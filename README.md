@@ -5,6 +5,7 @@ Python 2.7 -- Cuda-8.0 -- TensorFlow 1.4.0 -- Keras 2.1.5
 [[`arXiv`](https://arxiv.org/abs/1812.01752)]
 
 ###Data
+
 Data comes from the [[`TubeTk`](https://public.kitware.com/Wiki/TubeTK/Data)] data. More specifically, the 100 Healthy Normal MRIs and MRAs from UNC. A subset of this dataset also includes intra-cranial vasculature (centerline + radius), extracted from the MRA images. These models are found in each patient's "Auxillary Data" folder. Using the command [['ComputeTubeFlyThroughImage'](https://github.com/KitwareMedical/ITKTubeTK/tree/master/apps/ComputeTubeFlyThroughImage)] from the TubeTk apps, one can generate a binary mask from the .tre files in the Auxillary Data.
 
 ### Abstract
